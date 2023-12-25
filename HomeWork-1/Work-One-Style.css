@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.imgcontainer {
+  padding: 40px;
+  width: 100%;
+  position: relative;
+}
+.imgbox {
+  display: inline-block;
+  border: 1px solid rgb(145, 145, 145);
+  width: 24.78%;
+}
+h3 {
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 10px;
+  font-weight: 400;
+}
+.imgbox:hover {
+  border: 4px solid black;
+}
